@@ -1,4 +1,4 @@
-public class patter_hollow_square {
+public class pattern_hollow_square {
     public static void main(String[] args) {
         
         int n=5;
